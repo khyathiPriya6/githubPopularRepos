@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.each-language-style {
+  margin: 10px;
+}
+
+.button-style-each-language {
+  border-width: 0px;
+  background-color: #ffffff;
+  font-weight: bold;
+  font-family: roboto;
+  font-size: 15px;
+}
+
+.activeLanguageBtn {
+  border-radius: 10px;
+  padding: 9px;
+  color: #0284c7;
+  border-color: #0284c7;
+  border-width: 3px;
+  border-style: solid;
+}

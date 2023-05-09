@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.popular-heading {
+  font-family: Lobster;
+  text-align: center;
+  font-size: 60px;
+  margin: 40px;
+}
+
+.languages-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.repo-items-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.loader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
